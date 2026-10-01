@@ -1,2 +1,2 @@
-# subes
+# Subes
 Subes project documentation
